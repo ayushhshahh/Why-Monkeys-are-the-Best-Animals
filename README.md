@@ -5,3 +5,4 @@
 
 ## The Giraffe
 ![Giraffe Picture](https://i.pinimg.com/originals/da/e7/7b/dae77bb28c060ff91968e3a88512a4df.jpg)
+<p>Giraffes have long necks and are able to reach long trees. This means they are able to reach the food on top of the tree that no one else can reach, which is why they are very cool.</p>
