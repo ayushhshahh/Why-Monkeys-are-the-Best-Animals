@@ -4,5 +4,5 @@
 <p>They are the best animals at being monkeys in the entire galaxy. They are not good at being dogs, cats, or any other animals, but they are spectacular at being monkeys.</p>
 
 ## The Giraffe
-![Giraffe Picture](https://i.pinimg.com/originals/da/e7/7b/dae77bb28c060ff91968e3a88512a4df.jpg)
+![Giraffe Picture](https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/fl_no_overflow,g_south,l_text:style_gothic2:%C2%A9%20Morris%20Gieselman,o_20,y_10/fl_no_overflow,g_center,l_watermark4,o_25,y_50/v1586714320/cwthgyxw81ms3tyseehy.jpg)
 <p>Giraffes have long necks and are able to reach long trees. This means they are able to reach the food on top of the tree that no one else can reach, which is why they are very cool.</p>
